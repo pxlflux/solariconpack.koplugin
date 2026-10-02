@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path d="M 19.65,13.7 C 19.65,16.906 19.65,18.508 18.654,19.504 C 17.658,20.5 16.056,20.5 12.85,20.5 l -1.7,0 c -3.206,0 -4.808,0 -5.804,-0.996 C 4.35,18.508 4.35,16.906 4.35,13.7 l 0,-3.4 c 0,-3.206 0,-4.808 0.996,-5.804 C 6.342,3.5 7.944,3.5 11.15,3.5 L 12.85,3.5 C 16.056,3.5 17.658,3.5 18.654,4.496 C 19.65,5.492 19.65,7.094 19.65,10.3 Z" fill="#FFF7E6" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="m 15.4,8.147 l -6.8,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="m 15.4,10.129 l -6.8,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 11.617,16.495 L 15.425,16.495" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 12.759,14.488 L 15.425,14.488" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 13.521,12.481 L 15.425,12.481" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 8.57,12.481 L 9.193,13.941 L 10.284,16.495 L 11.998,12.481 m -2.804,1.46 l 2.181,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

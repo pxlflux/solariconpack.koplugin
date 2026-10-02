@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path d="M 13.7,4.35 C 16.906,4.35 18.508,4.35 19.504,5.346 C 20.5,6.342 20.5,7.944 20.5,11.15 l 0,1.7 c 0,3.206 0,4.808 -0.996,5.804 C 18.508,19.65 16.906,19.65 13.7,19.65 l -3.4,0 c -3.206,0 -4.808,0 -5.804,-0.996 C 3.5,17.658 3.5,16.056 3.5,12.85 L 3.5,11.15 C 3.5,7.944 3.5,6.342 4.496,5.346 C 5.492,4.35 7.094,4.35 10.3,4.35 Z" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1"/>
+  <path d="m 17.435,7.994 l -10.88,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+  <path d="m 17.435,9.981 l -10.88,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+  <path d="M 9.593,15.998 L 17.453,15.998" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+  <path d="M 10.736,13.991 L 17.453,13.991" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+  <path d="M 11.498,11.984 L 17.453,11.984" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+  <path d="M 6.547,11.984 L 7.17,13.444 L 8.261,15.998 L 9.974,11.984 m -2.804,1.46 l 2.181,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

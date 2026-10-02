@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path d="m 3.451,10.11 c 0,-3.582 0,-5.373 1.113,-6.486 C 5.677,2.51 7.468,2.51 11.05,2.51 l 1.9,0 c 3.582,0 5.373,0 6.486,1.113 c 1.113,1.113 1.113,2.904 1.113,6.486 l 0,3.8 c 0,3.582 0,5.373 -1.113,6.486 c -1.113,1.113 -2.904,1.113 -6.486,1.113 L 11.05,21.508 c -3.582,0 -5.373,0 -6.486,-1.113 c -1.113,-1.113 -1.113,-2.904 -1.113,-6.486 z" fill="#FFF7E6" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="m 8.2,6.31 l 7.599,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="m 8.2,17.709 l 4.75,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="m 8.2,13.908 l 7.599,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="m 8.2,10.109 l 7.599,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 21.77,2.139 L 21.152,2.589" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 2.382,2.197 L 3,2.647" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 2.264,21.845 L 2.883,21.395" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 21.652,21.787 L 21.034,21.336" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m 12.008,22.997 l 0.008,0.003" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m 12.008,1.007 l 0.008,-0.007" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m 22.04,12.019 l 0.765,0.008" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m 1.195,12.019 l 0.765,0.008" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
