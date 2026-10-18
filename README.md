@@ -9,8 +9,8 @@ Modern, rounded replacement icons for [KOReader](https://github.com/koreader/kor
 | | Icons | Details |
 |---|---|---|
 | **KOReader Icons** | 102 | Replaces KOReader's built-in icons: menu tabs, reader bottom bar, rotation, chevrons, dog-ears, Wi-Fi etc. |
-| **Pack Icons** | 34 | A SimpleUI icon pack; the included `pack.lua` maps the icons to all 46 SimpleUI system and action icons |
-| **Supplementary Icons** | 24 | For use with SimpleUI's Custom Quick Actions, e.g. Bookshelf, Rakuyomi, Syncthing, File Browser, Z-Library |
+| **Pack Icons** | 34 | A SimpleUI icon pack; the included `pack.lua` maps the icons to all 47 SimpleUI system and action icons |
+| **Supplementary Icons** | 84 | For use with SimpleUI's Custom Quick Actions, e.g. Bookshelf, Calibre, Readest, Rakuyomi, Syncthing, Z-Library, Zotero |
 
 Every icon sits on the same grid with matching line weights, so everything looks consistent across KOReader and SimpleUI.
 
@@ -41,7 +41,7 @@ Download `solariconpack.koplugin.zip` from the [latest release](https://github.c
 ```
 KOReader Icons (Colour or Mono)/          102 icons for KOReader
 Pack Icons (Colour or Mono)/              SimpleUI icon pack (34 icons + pack.lua)
-Supplementary Icons (Colour or Mono)/     24 icons for Custom Quick Actions
+Supplementary Icons (Colour or Mono)/     84 icons for Custom Quick Actions
 ```
 
 Copy from these folders as described below. You don't need to install the plugin itself. To see every icon with its filename, check the [full icon list](#full-icon-list).
@@ -76,7 +76,7 @@ If you installed manually, delete the Solar files from `koreader/icons/` and res
 
 ## Known issues
 
-SimpleUI 2.7.1 doesn't load the Recent and Random icons from icon packs, so for now you'll need to set those two by hand in **Quick Action Icons**. It's been [fixed](https://github.com/doctorhetfield-cmd/simpleui.koplugin/issues/540) in SimpleUI's development code and should work from the next release.
+On SimpleUI 2.7.1 or earlier, the Recent and Random icons aren’t applied from icon packs, so you’ll need to set those two by hand in Quick Action Icons, or update SimpleUI to 2.7.5 or later, which [fixes it](https://github.com/doctorhetfield-cmd/simpleui.koplugin/issues/540).
 
 ## Full icon list
 

@@ -1,7 +1,7 @@
 return {
     name        = "Solar Mono",
     author      = "pxlflux",
-    version     = "1.0.0",
+    version     = "1.1.0",
     description = "Modern, rounded icons based on the Solar icon set by 480 Design",
 
     map = {
@@ -53,5 +53,6 @@ return {
         sui_action_settings         = "settings.svg",
         sui_action_recent           = "recent.svg",
         sui_action_random_document  = "random_document.svg",
+        sui_action_search_library   = "search.svg",
     },
 }
