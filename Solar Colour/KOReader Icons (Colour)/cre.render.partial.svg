@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <path d="M 2.637,10.1 C 2.637,6.517 2.637,4.726 3.75,3.613 C 4.863,2.5 6.655,2.5 10.238,2.5 l 1.9,0 c 3.583,0 5.374,0 6.487,1.113 C 19.738,4.726 19.738,6.517 19.738,10.1 m 0,3.8 c 0,3.583 0,5.374 -1.113,6.487 C 17.512,21.5 15.72,21.5 12.138,21.5 L 10.238,21.5 C 6.655,21.5 4.863,21.5 3.75,20.387 C 2.637,19.274 2.637,17.483 2.637,13.9" fill="#FFF7E6" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
-  <path d="m 7.388,6.3 l 7.6,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 7.388,17.7 l 4.75,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 21.363,10.099 l 0,3.8 m -17.1,0 l -0.001,-3.8" fill="#FFF7E6" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
-  <path d="m 4.764,13.898 l -0.001,-3.8 L 20.907,10.098 l 0,3.8 z" fill="#FFF7E6" fill-opacity="1" stroke="none"/>
-  <path d="m 9.012,13.899 l 7.6,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 9.012,10.099 l 7.6,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 2.514,10.075 C 2.514,6.445 2.514,4.63 3.641,3.503 C 4.769,2.375 6.585,2.375 10.215,2.375 L 12.14,2.375 C 15.77,2.375 17.585,2.375 18.712,3.503 C 19.84,4.63 19.84,6.445 19.84,10.075 M 19.84,13.925 C 19.84,17.555 19.84,19.37 18.712,20.497 C 17.585,21.625 15.769,21.625 12.14,21.625 L 10.215,21.625 C 6.585,21.625 4.769,21.625 3.641,20.497 C 2.514,19.37 2.514,17.555 2.514,13.925" fill="#FFF7E6" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 7.327,6.225 L 15.027,6.225" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 7.327,17.775 L 12.14,17.775" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 21.486,10.074 L 21.486,13.924 M 4.161,13.924 L 4.16,10.074" fill="#FFF7E6" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 4.669,13.923 L 4.668,10.073 L 21.024,10.073 L 21.024,13.923 Z" fill="#FFF7E6" fill-opacity="1"/>
+  <path d="M 8.973,13.924 L 16.673,13.924" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 8.973,10.074 L 16.673,10.074" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
 </svg>

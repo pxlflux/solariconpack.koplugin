@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path d="M 6.83,2.419 L 17.257,2.419 A 4.368,4.368 0 0 1 21.625,6.787 L 21.625,17.213 A 4.368,4.368 0 0 1 17.257,21.581 L 6.83,21.581 A 4.368,4.368 0 0 1 2.462,17.213 L 2.462,6.787 A 4.368,4.368 0 0 1 6.83,2.419 Z" fill="#B9CFEB" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 7.318,11.994 L 12.047,11.994 L 12.047,16.723 L 7.318,16.723 Z" fill="#FFFFFF" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 12.059,16.843 L 16.776,16.843 L 16.776,21.56 L 12.059,21.56 Z" fill="#FFFFFF" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 16.935,7.202 L 21.624,7.202 L 21.624,11.891 L 16.935,11.891 Z" fill="#FFFFFF" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 12.138,2.433 L 16.853,2.433 L 16.853,7.149 L 12.138,7.149 Z" fill="#FFFFFF" fill-opacity="1" stroke="#000000" stroke-width="0.75"/>
+  <path d="M 11.985,7.136 L 2.375,7.136" fill="none"/>
+  <path d="M 21.555,7.239 L 2.574,7.177" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 21.417,12.017 L 2.568,11.94" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 21.435,16.754 L 2.483,16.782" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+</svg>

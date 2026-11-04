@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "id": "Solar_Colour",
+  "name": "Solar Colour",
+  "version": "1.2.0",
+  "author": "pxlflux",
+  "color": true
+}

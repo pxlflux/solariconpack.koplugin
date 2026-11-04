@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <path d="M 2.5,20.444 L 7.411,20.444" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="M 16.589,20.444 L 21.5,20.444" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 9.545,20.444 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 2.5,16.222 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="M 16.589,16.222 L 21.5,16.222" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 9.545,16.222 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 2.5,12 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="M 16.589,12 L 21.5,12" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 9.545,12 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 2.5,7.778 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="M 16.589,7.778 L 21.5,7.778" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 9.545,7.778 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 2.5,3.556 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="M 16.589,3.556 L 21.5,3.556" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
-  <path d="m 9.545,3.556 l 4.911,0" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 2.375,20.555 L 7.351,20.555" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 16.649,20.555 L 21.625,20.555" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 9.513,20.555 L 14.488,20.555" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 2.375,16.278 L 7.351,16.278" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 16.649,16.278 L 21.625,16.278" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 9.513,16.278 L 14.488,16.278" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 2.375,12 L 7.351,12" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 16.649,12 L 21.625,12" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 9.513,12 L 14.488,12" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 2.375,7.722 L 7.351,7.722" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 16.649,7.722 L 21.625,7.722" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 9.513,7.722 L 14.488,7.722" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 2.375,3.445 L 7.351,3.445" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 16.649,3.445 L 21.625,3.445" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
+  <path d="M 9.513,3.445 L 14.488,3.445" fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round"/>
 </svg>
