@@ -2,9 +2,10 @@
 
 Modern, rounded replacement icons for [KOReader](https://github.com/koreader/koreader), with a full icon pack for the [SimpleUI](https://github.com/doctorhetfield-cmd/simpleui.koplugin) plugin, [ZenOS](https://github.com/xZenLabs/zen-os) plugin and [Project: Title](https://github.com/joshuacant/ProjectTitle) plugin. Includes many supplementary icons for use with custom quick actions.
 
-<img width="2400" height="1180" alt="Solar Icon Pack: Colour and Mono icons" src="https://github.com/user-attachments/assets/60011e18-b307-41fd-b141-17c4e2a54f58" />
+<img width="2400" height="1180" alt="Solar Icon Pack: Colour and Mono icons" src="https://github.com/user-attachments/assets/a472d3d3-1d60-492d-b752-1e7d273e372b" />
 
 ## What's included
+
 
 |                         | Icons | Details                                                                                                                                                                                                                                                             |
 | ----------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +30,7 @@ Storing every drawing only once keeps the download small, and keeps the icons co
 | **Solar Colour** | Soft pastel fills, 0.75 stroke | Colour e-ink screens |
 | **Solar Mono** | Bolder outlines, 1.0 stroke | Black & white e-ink screens |
 
-<img width="2400" height="1180" alt="KOReader and SimpleUI before and after Solar" src="https://github.com/user-attachments/assets/729dc6cc-fdf3-4aba-80ab-1f95f7b59ec9" />
+<img width="2400" height="1180" alt="KOReader before and after Solar" src="https://github.com/user-attachments/assets/3101a818-7ce5-4462-ae94-cea49b663e02" />
 
 ## Install with the plugin (easiest)
 
