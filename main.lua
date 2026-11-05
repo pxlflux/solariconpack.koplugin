@@ -66,6 +66,10 @@ function SolarIcons:projectTitleEnabled()
     return self:projectTitleDir() ~= nil and not pluginDisabled("projecttitle")
 end
 
+function SolarIcons:bookshelfEnabled()
+    return util.directoryExists(self:pluginsDir() .. "/bookshelf.koplugin") and not pluginDisabled("bookshelf")
+end
+
 function SolarIcons:zenOSDir()
     for __, name in ipairs({ "zenos.koplugin", "zen_ui.koplugin" }) do
         local dir = self:pluginsDir() .. "/" .. name
@@ -578,7 +582,6 @@ function SolarIcons:uninstallFiles()
     self.state:delSetting("simpleui_previous")
     self.state:delSetting("installed_version")
     self.state:delSetting("style")
-    -- Nothing left to remember, so remove the settings file and KOReader's backup of it
     self.state:purge()
     os.remove(self.state.file .. ".old")
 end
@@ -636,6 +639,13 @@ function SolarIcons:install(style)
         self:applyPTImages(style, pt_dir)
         self.state:makeTrue("pt_installed")
         table.insert(parts, _("Project Title: its title bar icons and book and folder images have been replaced."))
+    end
+
+    if self:bookshelfEnabled() then
+        local only_bookshelf = function(name) return name == "bookshelf.svg" end
+        for __, record in ipairs(installFiles(self:sourceDir(style, "Base Icons"), koreaderIconsDir(), only_bookshelf)) do
+            table.insert(records, record)
+        end
     end
 
     self.state:saveSetting("files", records)

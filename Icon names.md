@@ -23,8 +23,8 @@ Each style has two folders: `KOReader Icons` (KOReader's own icons, installed as
 | `Base: blocks`                 | ZenOS `blocks`                                                                               |                                                                                     |
 | `Base: bluetooth`              | ZenOS `quick_bluetooth`                                                                      |                                                                                     |
 | `Base: book`                   | ZenOS `book_closed`, ZenOS `reference`                                                       |                                                                                     |
-| `Base: bookshelf`              | ZenOS `library`, ZenOS `tab_books`                                                           |                                                                                     |
-| `Base: bookshelf_alt`          | ZenOS `bookshelf`                                                                            | Project: Title `folder` (enlarged onto Project: Title's 250 × 500 canvas)           |
+| `Base: bookshelf`              | ZenOS `bookshelf`, Bookshelf `bookshelf`                                                     |                                                                                     |
+| `Base: bookshelf_alt`          | Project: Title `folder` (enlarged onto Project: Title's 250 × 500 canvas)                       |                                                                                     |
 | `Base: brain`                  | ZenOS `lookup.ai`                                                                            |                                                                                     |
 | `Base: brightness`             | ZenOS `brightness`, ZenOS `sun`                                                              |                                                                                     |
 | `Base: browser`                | ZenOS `globe`, ZenOS `browser`, ZenOS `sources`                                              |                                                                                     |
@@ -58,7 +58,6 @@ Each style has two folders: `KOReader Icons` (KOReader's own icons, installed as
 | `Base: enable`                 | ZenOS `enable`                                                                               |                                                                                     |
 | `Base: exit`                   | SimpleUI `exit`, ZenOS `quick_exit`, ZenOS `tab_exit`                                        |                                                                                     |
 | `Base: extend`                 | ZenOS `lookup.extend`                                                                        |                                                                                     |
-| `Base: file_tray`              | SimpleUI `library`                                                                           |                                                                                     |
 | `Base: file_unsupported`       |                                                                                              | Project: Title `file-unsupported` (enlarged onto Project: Title's 250 × 500 canvas) |
 | `Base: filebrowserplus`        | ZenOS `filebrowserplus`                                                                      |                                                                                     |
 | `Base: filter`                 | ZenOS `filter`                                                                               |                                                                                     |
@@ -78,6 +77,7 @@ Each style has two folders: `KOReader Icons` (KOReader's own icons, installed as
 | `Base: history`                | Project: Title `history`, SimpleUI `history`, ZenOS `tab_history`                            |                                                                                     |
 | `Base: incognito`              | ZenOS `quick_incognito`                                                                      |                                                                                     |
 | `Base: launcher`               | ZenOS `app_launcher`                                                                         |                                                                                     |
+| `Base: library`                | SimpleUI `library`, ZenOS `library`, ZenOS `tab_books`                                       |                                                                                     |
 | `Base: lightbulb`              | SimpleUI `frontlight`, ZenOS `lightbulb`                                                     |                                                                                     |
 | `Base: lightning`              | ZenOS `lightning`                                                                            |                                                                                     |
 | `Base: localsend`              | ZenOS `quick_localsend`                                                                      |                                                                                     |
@@ -200,8 +200,8 @@ Each style has two folders: `KOReader Icons` (KOReader's own icons, installed as
 | `Base: blocks` | ZenOS `blocks` |  |
 | `Base: bluetooth` | ZenOS `quick_bluetooth` |  |
 | `Base: book` | ZenOS `book_closed`, ZenOS `reference` |  |
-| `Base: bookshelf` | ZenOS `library`, ZenOS `tab_books` |  |
-| `Base: bookshelf_alt` | ZenOS `bookshelf` | Project: Title `folder` (enlarged onto Project: Title's 250 × 500 canvas) |
+| `Base: bookshelf` | ZenOS `bookshelf`, Bookshelf `bookshelf` | |
+| `Base: bookshelf_alt` | Project: Title `folder` (enlarged onto Project: Title's 250 × 500 canvas) | |
 | `Base: brain` | ZenOS `lookup.ai` |  |
 | `Base: brightness` | ZenOS `brightness`, ZenOS `sun` |  |
 | `Base: browser` | ZenOS `globe`, ZenOS `browser`, ZenOS `sources` |  |
@@ -235,7 +235,6 @@ Each style has two folders: `KOReader Icons` (KOReader's own icons, installed as
 | `Base: enable` | ZenOS `enable` |  |
 | `Base: exit` | SimpleUI `exit`, ZenOS `quick_exit`, ZenOS `tab_exit` |  |
 | `Base: extend` | ZenOS `lookup.extend` |  |
-| `Base: file_tray` | SimpleUI `library` |  |
 | `Base: file_unsupported` |  | Project: Title `file-unsupported` (enlarged onto Project: Title's 250 × 500 canvas) |
 | `Base: filebrowserplus` | ZenOS `filebrowserplus` |  |
 | `Base: filter` | ZenOS `filter` |  |
@@ -255,6 +254,7 @@ Each style has two folders: `KOReader Icons` (KOReader's own icons, installed as
 | `Base: history` | Project: Title `history`, SimpleUI `history`, ZenOS `tab_history` |  |
 | `Base: incognito` | ZenOS `quick_incognito` |  |
 | `Base: launcher` | ZenOS `app_launcher` |  |
+| `Base: library` | SimpleUI `library`, ZenOS `library`, ZenOS `tab_books` |  |
 | `Base: lightbulb` | SimpleUI `frontlight`, ZenOS `lightbulb` |  |
 | `Base: lightning` | ZenOS `lightning` |  |
 | `Base: localsend` | ZenOS `quick_localsend` |  |

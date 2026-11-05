@@ -1,7 +1,7 @@
 return {
     name        = "Solar Mono",
     author      = "pxlflux",
-    version     = "1.2.0",
+    version     = "1.2.1",
     description = "Modern, rounded icons based on the Solar icon set by 480 Design",
 
     map = {
